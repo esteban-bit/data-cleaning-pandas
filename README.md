@@ -99,6 +99,7 @@ dtypes: float64(2), object(22)
 memory usage: 4.7+ MB 
 ```
 
+
 ## Recursos
 
 [Data Cleaning Tutorial](https://www.tutorialspoint.com/python/python_data_cleansing.html)
