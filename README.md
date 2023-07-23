@@ -27,11 +27,10 @@
 
 Identificar los patrones y tendencias en los ataques de tiburones a lo largo del tiempo y en diferentes países.
 
+¿Cuáles son los países con mayor incidencia de ataques de tiburones?
+
 ¿Ha habido un aumento o disminución en los ataques de tiburones a lo largo de los años?
 
-¿Existen ciertos meses o estaciones del año en los que se producen más ataques de tiburones?
-
-¿Cuáles son los países con mayor incidencia de ataques de tiburones?
 
 ¿Cuál es el tipo de ataque más común (provocado o no provocado)?
 
@@ -40,6 +39,17 @@ Identificar los patrones y tendencias en los ataques de tiburones a lo largo del
 ## Proceso
 
 Se realiza el proceso a traves de Python.
+
+El conjunto de datos obtenido de Kaggle es muy desordenado y carece de estructura. 
+
+Se procede a  limpiar y manipular los datos sin romper estas dos reglas:
+
+- No eliminar ninguna columna del conjunto de datos
+
+- No tener menos de 2500 filas en el conjunto de datos
+
+
+¡Empecemos!
 
 Instalamos las librerias :
 ```
@@ -63,7 +73,7 @@ Cargamos los datos
 ``````
 tiburon= pd.read_csv('/Users/esteban/Phyton/w2_project_pandas/data/attacks.csv', encoding= 'latin-1')
 ``````
-Se realiza la limpieza de los datos nulos:
+Se realiza la limpieza de los siguientes datos nulos:
 
 ```
 <class 'pandas.core.frame.DataFrame'>
