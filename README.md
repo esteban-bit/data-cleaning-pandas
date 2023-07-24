@@ -168,30 +168,30 @@ Se Agrupan los datos por año y se cuentan la frecuencia de los ataques
 Podemos observar que probablemente se hayan perdido bastantes datos o no se han registrado.
 
 <div align="center">
-    <img src="imagenes/Captura1.png" alt="Logo" width="300" height="200">
+    <img src="imagenes/Captura1.png" alt="Logo" width="300" height="250">
 </div>
 
 ## 5.3 Ataque de tiburon desde el año 1850
 
 A partir del 1850 se ve el incremento de datos, procedemos a observar el cuadro:
 
- - Dos grandes picos entre el año 1950 - 1975 y entre el 2000 - 20025.
+ - Dos grandes picos entre el año 1950 - 1975 y entre el 2000 - 2025.
 <div align="center">
-    <img src="imagenes/Captura3.png" alt="Logo" width="300" height="200">
+    <img src="imagenes/Captura3.png" alt="Logo" width="300" height="250">
 </div>
 
 ## 5.4 Ataque de tiburon desde el año 1950 
 ​
 En los años 60 se regitra un pico de ataques por encima de 80 ataques.
 <div align="center">
-    <img src="imagenes/Captura2.png" alt="Logo" width="300" height="200">
+    <img src="imagenes/Captura2.png" alt="Logo" width="300" height="250">
 </div>
 
 ## 5.5 Ataque de tiburon desde el año 2010
 
 Como podemos observar, el pico mas alto se registra en el año 2015 con un total de 136 ataques.
 <div align="center">
-    <img src="imagenes/Captura4.png" alt="Logo" width="300" height="200">
+    <img src="imagenes/Captura4.png" alt="Logo" width="300" height="250">
 </div>
 
 # 6. Top 3 de los años con más ataques registrados
