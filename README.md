@@ -246,11 +246,11 @@ Se observa que los ataques no fueron provocados.
     <img src="imagenes/Captura7.png" alt="Logo" width="350" height="300">
 </div>
 
-## 9. Identificar el tipo de lesion por ataque.¶
+# 9. Identificar el tipo de lesion por ataque.¶
 
 Se analizan los datos y se procede agrupar tipo de lesiones para identificar las principales lesiones.
 
-# 9.1 Principales lesiones
+## 9.1 Principales lesiones
 
 Se observa que la mayoria de los ataques fueron mortales, seguido de laceraciones.
 
